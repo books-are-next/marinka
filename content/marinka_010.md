@@ -1,16 +1,15 @@
 ---
+title: Finále
 contentType: prose
 ---
 
-Finále
+_Vale, lásko ošemetná!_
 
-Vale, lásko ošemetná!
-
-Adieu! — Lebe wohl!
+_Adieu! — Lebe wohl!_
 
 Stará píseň; má známou notu.
 
-Dobrou noc, ó lásko! zlatá číše,  
+_Dobrou noc, ó lásko! zlatá číše,  
 naplněná smrtonosnou slastí!  
 Tvoje krásná, klamuplná říše  
 nebude již nikdy mojí vlastí!  
@@ -19,37 +18,47 @@ jasné světy z jitra doplanuly.
 Miloval jsem z jara krásné květy —  
 bujné větry pryč je zavanuly.  
 A tak vše, co radosti mi neslo,  
-láskou mojí v brzkou zkázu kleslo!
+láskou mojí v brzkou zkázu kleslo!_
 
-Ještě jednou v mladosti mé kraje  
+  
+
+_Ještě jednou v mladosti mé kraje  
 zpět mě vedlo mdlého slunce zlaté;  
 v snů mých říši, ony stíny svaté,  
 kde jsem bloudil, jako dítko hraje.  
 Mrtvo kolem — pustota jen pouhá.  
 „Vše mladosti mé uvadlo kvítí?“  
 „Bez slunce květ nemá vzniku, žití;  
-slunce zašlo a noc byla dlouhá!“
+slunce zašlo a noc byla dlouhá!“_
 
-Pláči hořce. „Proč, ó slunce jasné,  
+  
+
+_Pláči hořce. „Proč, ó slunce jasné,  
 an tě sotva mdlý můj zrak uhlídá,  
 již tvá záře zase mi zahasne?!“  
-„Hasne! hasne!“ ohlas odpovídá;
+„Hasne! hasne!“ ohlas odpovídá;_
 
-a již tma se kolem rozprostřela.  
-Chtěl jsem kvítí — noc jen slzy měla.
+  
 
-Teď jsem tichý; harfa bezestrunná  
+_a již tma se kolem rozprostřela.  
+Chtěl jsem kvítí — noc jen slzy měla._
+
+  
+
+_Teď jsem tichý; harfa bezestrunná  
 zavěšena v kobce otců přešlých;  
 tichý, jak v zásvitu světů vzešlých  
 nade hroby noc je stříbrolunná.  
 Však co chová harfa v zpustlém klínu?  
 Kdo mi tajné její žely poví?  
 Kdo vyřekne a kdo ustanoví,  
-co noc tichá v bledém tají stínu?
+co noc tichá v bledém tají stínu?_
 
-Větřík vzdychne v harfy lůno duté,  
+  
+
+_Větřík vzdychne v harfy lůno duté,  
 a ta, ač již struny žádné nemá,  
 zalká zvuky nezapomenuté!  
 Vzplanou noci zraky žalonosné,  
 šírou zemi kryje slza němá!! —  
-Či ne slza? — snad jen kapky rosné!
+Či ne slza? — snad jen kapky rosné!_
