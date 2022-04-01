@@ -1,9 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Vale lásko ošemetná!  
-Adieu! — Lebe wohl!  
- 
+_Vale lásko ošemetná!  
+Adieu! — Lebe wohl!_ 
 
 Stará píseň; má známou notu.

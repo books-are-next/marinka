@@ -1,23 +1,28 @@
 ---
+title: Ouvertura
 contentType: prose
 ---
 
-Ouvertura
-
-„Vzešel máj! Hlubokých muži želů!  
+_„Vzešel máj! Hlubokých muži želů!  
 Tvou proč bledost ještě kryje tvář?  
 V přírodu jdi — zlatá slunce zář  
-růže lícím, poklid vrátí čelu!“
+růže lícím, poklid vrátí čelu!“_
 
-Vyjdu v slunce. Nad luhy vzkvětlými  
+  
+
+_Vyjdu v slunce. Nad luhy vzkvětlými  
 na západu jeho zář se skvěla;  
 i tvář má se v jeho lesku rděla,  
-zdobená co růžemi novými.
+zdobená co růžemi novými._
 
-Sklesna v prach, za sluncem rozstru ruce;  
+  
+
+_Sklesna v prach, za sluncem rozstru ruce;  
 borů šum, slavíka klokotání  
-k němu nesou mojí touhy lkání.
+k němu nesou mojí touhy lkání._
 
-Konec zdál se blízký mojí muce.  
+  
+
+_Konec zdál se blízký mojí muce.  
 Zašlo slunce. Tma splynula šedá,  
-a má tvář jak jindy byla bledá.
+a má tvář jak jindy byla bledá._

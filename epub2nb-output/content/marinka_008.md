@@ -1,10 +1,9 @@
 ---
+title: Intermezzo
 contentType: prose
 ---
 
-Intermezzo
-
-Temná noci, jasná noci!  
+_Temná noci, jasná noci!  
 Obě k želu mne budíte.  
 Temná noc mne v hloubi tiskne,  
 jasná noc mě vzhůru vábí;  
@@ -24,4 +23,4 @@ Květinou-li mne životu navrátí,
 list můj i květ můj se k světlu obrátí;  
 však, ach, jen země zas tma mne uchvátí,  
 světla ve stány jíti nedá!  
-Vy hvězdy jasné! — Vy hvězdy ve výši! —
+Vy hvězdy jasné! — Vy hvězdy ve výši! —_

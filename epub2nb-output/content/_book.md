@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Marinka
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Karel Hynek Mácha
   publisher: Městská knihovna v Praze
   modified: '2021-03-02T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - marinka_001.html
   - marinka_002.html
@@ -25,6 +29,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

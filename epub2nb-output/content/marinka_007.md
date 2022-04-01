@@ -1,8 +1,7 @@
 ---
+title: Dějství první
 contentType: prose
 ---
-
-Dějství první
 
   
 
@@ -35,5 +34,7 @@ List byl ženskou rukou čistě psaný; na druhé straně bylo někdy něco rejs
 „_Bei Gott, ein Liebesbrief. Lass sehen!_“ zvolal jeden, chápaje se listu.
 
 „Nech státi!“ vzkřiknu, a chopiv ho za prsa i mrštiv daleko všetečným, spěchám domů. Mně byl list tento svatý. – Vítězné zvuky hudby a smích pozůstalých nesou se za mnou. Přijdu domů a samoten sedím, hlavou o stůl opřený, v hlubokých myšlenkách.
+
+  
 
 (Opona noci spadne.)

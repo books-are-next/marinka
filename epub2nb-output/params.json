@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Marinka",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-03-02T00:00:00.000Z"
+      "modified": "2021-03-02T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_basne\nMLP_uroven2_kapitola",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -17,12 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_verse_-I-_-12-12-\nMLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP_verse_-I-_-0-12-\nMLP_verse_-I-_-12-12-\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-\nMLP_text_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat \nMLP_venovani\nMLP_verse_-I-_-0-12-\nMLP_verse_-I-_-12-12-",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "marinka_001.md",
@@ -196,31 +201,31 @@
         "xhtml": "marinka_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ouvertura",
         "subtitleSuggest": "",
         "filename": "marinka_006.md",
         "xhtml": "marinka_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dějství první",
         "subtitleSuggest": "",
         "filename": "marinka_007.md",
         "xhtml": "marinka_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Intermezzo",
         "subtitleSuggest": "",
         "filename": "marinka_008.md",
         "xhtml": "marinka_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dějství druhé",
         "subtitleSuggest": "",
         "filename": "marinka_009.md",
         "xhtml": "marinka_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Finále",
         "subtitleSuggest": "",
         "filename": "marinka_010.md",
         "xhtml": "marinka_010.xhtml"
@@ -300,6 +305,6 @@
       "user": "books-are-next",
       "repo": "marinka"
     },
-    "generatedAt": 1648824241878
+    "generatedAt": 1648825533904
   }
 }

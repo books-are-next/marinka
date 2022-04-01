@@ -1,0 +1,250 @@
+{
+  "author": "Karel Hynek Mácha",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "macha-marinka-63cb473",
+  "languagecode": "cs",
+  "modified": "2021-03-02T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Marinka",
+  "revision": "63cb473",
+  "generatedAt": {
+    "date": "Fri Apr 01 2022 15:06:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648825581766
+  },
+  "documents": [
+    {
+      "title": "Marinka",
+      "file": "marinka_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "marinka_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marinka",
+      "file": "marinka_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "marinka_001.html",
+      "next": "marinka_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marinka",
+      "file": "marinka_003.html",
+      "words": 4,
+      "chars": 24,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "marinka_002.html",
+      "next": "marinka_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marinka",
+      "file": "marinka_004.html",
+      "words": 81,
+      "chars": 533,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "marinka_003.html",
+      "next": "marinka_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marinka",
+      "file": "marinka_005.html",
+      "words": 12,
+      "chars": 67,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 4,
+      "prev": "marinka_004.html",
+      "next": "marinka_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ouvertura • Marinka",
+      "file": "marinka_006.html",
+      "words": 83,
+      "chars": 453,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 5,
+      "prev": "marinka_005.html",
+      "next": "marinka_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ouvertura",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dějství první • Marinka",
+      "file": "marinka_007.html",
+      "words": 1174,
+      "chars": 7147,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 6,
+      "prev": "marinka_006.html",
+      "next": "marinka_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dějství první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Intermezzo • Marinka",
+      "file": "marinka_008.html",
+      "words": 1,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "marinka_007.html",
+      "next": "marinka_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Intermezzo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dějství druhé • Marinka",
+      "file": "marinka_009.html",
+      "words": 2696,
+      "chars": 16228,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 8,
+      "prev": "marinka_008.html",
+      "next": "marinka_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dějství druhé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Finále • Marinka",
+      "file": "marinka_010.html",
+      "words": 233,
+      "chars": 1286,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 9,
+      "prev": "marinka_009.html",
+      "next": "marinka_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Finále",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marinka",
+      "file": "marinka_011.html",
+      "words": 44,
+      "chars": 280,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "marinka_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4335,
+      "chars": 26068,
+      "ideas": 182
+    },
+    "chapters": {
+      "words": 4328,
+      "chars": 26028,
+      "ideas": 177
+    }
+  }
+}
