@@ -2,38 +2,18 @@
   "author": "Karel Hynek Mácha",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "macha-marinka-63cb473",
+  "identifier": "macha-marinka-04c1921",
   "languagecode": "cs",
   "modified": "2021-03-02T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Marinka",
-  "revision": "63cb473",
+  "revision": "04c1921",
   "generatedAt": {
-    "date": "Fri Apr 01 2022 15:06:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648825581766
+    "date": "Fri Apr 01 2022 15:13:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648826017051
   },
   "documents": [
-    {
-      "title": "Marinka",
-      "file": "marinka_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "marinka_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Marinka",
       "file": "marinka_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "marinka_001.html",
-      "next": "marinka_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Marinka",
-      "file": "marinka_003.html",
-      "words": 4,
-      "chars": 24,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "marinka_002.html",
-      "next": "marinka_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Marinka",
-      "file": "marinka_004.html",
-      "words": 81,
-      "chars": 533,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "marinka_003.html",
+      "order": 0,
+      "prev": null,
       "next": "marinka_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 67,
       "ideas": 3,
       "role": "chapter",
-      "order": 4,
-      "prev": "marinka_004.html",
+      "order": 1,
+      "prev": "marinka_002.html",
       "next": "marinka_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 453,
       "ideas": 15,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "marinka_005.html",
       "next": "marinka_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 7147,
       "ideas": 17,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "marinka_006.html",
       "next": "marinka_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "marinka_007.html",
       "next": "marinka_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 16228,
       "ideas": 79,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "marinka_008.html",
       "next": "marinka_010.html",
       "toc": [
@@ -201,9 +141,9 @@
       "chars": 1286,
       "ideas": 42,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "marinka_009.html",
-      "next": "marinka_011.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -215,20 +155,20 @@
       ]
     },
     {
-      "title": "Marinka",
-      "file": "marinka_011.html",
-      "words": 44,
-      "chars": 280,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 10,
+      "title": "Tiráž • Marinka",
+      "file": "colophon.html",
+      "words": 130,
+      "chars": 842,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
       "prev": "marinka_010.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -242,9 +182,9 @@
       "ideas": 182
     },
     "chapters": {
-      "words": 4328,
-      "chars": 26028,
-      "ideas": 177
+      "words": 4199,
+      "chars": 25191,
+      "ideas": 157
     }
   }
 }
