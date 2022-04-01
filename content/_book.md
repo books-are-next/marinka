@@ -1,36 +1,36 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Marinka
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Karel Hynek Mácha
+  publisher: Městská knihovna v Praze
+  modified: '2021-03-02T00:00:00.000Z'
+readingOrder:
+  - marinka_001.html
+  - marinka_002.html
+  - marinka_003.html
+  - marinka_004.html
+  - marinka_005.html
+  - marinka_006.html
+  - marinka_007.html
+  - marinka_008.html
+  - marinka_009.html
+  - marinka_010.html
+  - marinka_011.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
