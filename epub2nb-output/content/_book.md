@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - marinka_002.html
+  - promo.html
   - marinka_005.html
   - marinka_006.html
   - marinka_007.html

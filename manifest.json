@@ -1,22 +1,33 @@
 {
-  "author": "Karel Hynek Mácha",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "macha-marinka-04c1921",
-  "languagecode": "cs",
-  "modified": "2021-03-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Marinka",
-  "revision": "04c1921",
+  "author": "Karel Hynek Mácha",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "macha-marinka-4cb27bb",
+  "revision": "4cb27bb",
+  "readingOrder": [
+    "promo.html",
+    "marinka_005.html",
+    "marinka_006.html",
+    "marinka_007.html",
+    "marinka_008.html",
+    "marinka_009.html",
+    "marinka_010.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 01 2022 15:13:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648826017051
+    "date": "Thu May 12 2022 10:42:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352132955
   },
   "documents": [
     {
-      "title": "Marinka",
-      "file": "marinka_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +35,7 @@
       "order": 0,
       "prev": null,
       "next": "marinka_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Marinka",
@@ -42,7 +45,7 @@
       "ideas": 3,
       "role": "chapter",
       "order": 1,
-      "prev": "marinka_002.html",
+      "prev": "promo.html",
       "next": "marinka_006.html",
       "toc": [
         {
@@ -55,7 +58,7 @@
       ]
     },
     {
-      "title": "Ouvertura • Marinka",
+      "title": "Ouvertura",
       "file": "marinka_006.html",
       "words": 83,
       "chars": 453,
@@ -75,7 +78,7 @@
       ]
     },
     {
-      "title": "Dějství první • Marinka",
+      "title": "Dějství první",
       "file": "marinka_007.html",
       "words": 1174,
       "chars": 7147,
@@ -95,7 +98,7 @@
       ]
     },
     {
-      "title": "Intermezzo • Marinka",
+      "title": "Intermezzo",
       "file": "marinka_008.html",
       "words": 1,
       "chars": 10,
@@ -115,7 +118,7 @@
       ]
     },
     {
-      "title": "Dějství druhé • Marinka",
+      "title": "Dějství druhé",
       "file": "marinka_009.html",
       "words": 2696,
       "chars": 16228,
@@ -135,7 +138,7 @@
       ]
     },
     {
-      "title": "Finále • Marinka",
+      "title": "Finále",
       "file": "marinka_010.html",
       "words": 233,
       "chars": 1286,
@@ -155,11 +158,11 @@
       ]
     },
     {
-      "title": "Tiráž • Marinka",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 842,
-      "ideas": 21,
+      "words": 112,
+      "chars": 708,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "marinka_010.html",
@@ -177,9 +180,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4335,
-      "chars": 26068,
-      "ideas": 182
+      "words": 4317,
+      "chars": 25934,
+      "ideas": 177
     },
     "chapters": {
       "words": 4199,
