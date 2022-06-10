@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "macha-marinka-4cb27bb",
-  "revision": "4cb27bb",
+  "identifier": "macha-marinka-ef2281a",
+  "revision": "ef2281a",
   "readingOrder": [
     "promo.html",
     "marinka_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:42:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352132955
+    "date": "Fri Jun 10 2022 17:52:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883537363
   },
   "documents": [
     {
@@ -100,9 +100,9 @@
     {
       "title": "Intermezzo",
       "file": "marinka_008.html",
-      "words": 1,
-      "chars": 10,
-      "ideas": 1,
+      "words": 131,
+      "chars": 645,
+      "ideas": 22,
       "role": "chapter",
       "order": 4,
       "prev": "marinka_007.html",
@@ -160,9 +160,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 112,
-      "chars": 708,
-      "ideas": 16,
+      "words": 76,
+      "chars": 514,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "marinka_010.html",
@@ -180,14 +180,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4317,
-      "chars": 25934,
-      "ideas": 177
+      "words": 4411,
+      "chars": 26375,
+      "ideas": 189
     },
     "chapters": {
-      "words": 4199,
-      "chars": 25191,
-      "ideas": 157
+      "words": 4329,
+      "chars": 25826,
+      "ideas": 178
     }
   }
 }

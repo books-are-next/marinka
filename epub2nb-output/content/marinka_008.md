@@ -3,6 +3,8 @@ title: Intermezzo
 contentType: prose
 ---
 
+<section>
+
 _Temná noci, jasná noci!  
 Obě k želu mne budíte.  
 Temná noc mne v hloubi tiskne,  
@@ -24,3 +26,5 @@ list můj i květ můj se k světlu obrátí;
 však, ach, jen země zas tma mne uchvátí,  
 světla ve stány jíti nedá!  
 Vy hvězdy jasné! — Vy hvězdy ve výši! —_
+
+</section>

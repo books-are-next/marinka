@@ -3,7 +3,7 @@ title: Dějství první
 contentType: prose
 ---
 
-  
+<section>
 
 Máji! ó máji! – krásný máji!! – V obejmutí tvém plesá znovu živoucí země! Však běda, že žádný cit tak čistý není, aby nebyl smíšený s citem sobě odporným! Jako v potěšení pocestného, vidoucího ponejprve rozkošnou při cestě své krajinu, se mísí žalost brzkého s ní rozloučení; jako v sladkost prvního políbení ihned hořkost posledního vplyne: tak i při vší radosti a plesu země z příchodu tvého, krásný máji, tvář její jeví smutek a bol brzkého s tebou se rozestání a srdce mé jí co ozvěna zhluboka odpovídá! –
 
@@ -35,6 +35,10 @@ List byl ženskou rukou čistě psaný; na druhé straně bylo někdy něco rejs
 
 „Nech státi!“ vzkřiknu, a chopiv ho za prsa i mrštiv daleko všetečným, spěchám domů. Mně byl list tento svatý. – Vítězné zvuky hudby a smích pozůstalých nesou se za mnou. Přijdu domů a samoten sedím, hlavou o stůl opřený, v hlubokých myšlenkách.
 
-  
+</section>
+
+<section>
 
 (Opona noci spadne.)
+
+</section>

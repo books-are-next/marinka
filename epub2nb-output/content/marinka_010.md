@@ -3,6 +3,8 @@ title: Finále
 contentType: prose
 ---
 
+<section>
+
 _Vale, lásko ošemetná!_
 
 _Adieu! — Lebe wohl!_
@@ -20,7 +22,9 @@ bujné větry pryč je zavanuly.
 A tak vše, co radosti mi neslo,  
 láskou mojí v brzkou zkázu kleslo!_
 
-  
+</section>
+
+<section>
 
 _Ještě jednou v mladosti mé kraje  
 zpět mě vedlo mdlého slunce zlaté;  
@@ -31,19 +35,25 @@ Mrtvo kolem — pustota jen pouhá.
 „Bez slunce květ nemá vzniku, žití;  
 slunce zašlo a noc byla dlouhá!“_
 
-  
+</section>
+
+<section>
 
 _Pláči hořce. „Proč, ó slunce jasné,  
 an tě sotva mdlý můj zrak uhlídá,  
 již tvá záře zase mi zahasne?!“  
 „Hasne! hasne!“ ohlas odpovídá;_
 
-  
+</section>
+
+<section>
 
 _a již tma se kolem rozprostřela.  
 Chtěl jsem kvítí — noc jen slzy měla._
 
-  
+</section>
+
+<section>
 
 _Teď jsem tichý; harfa bezestrunná  
 zavěšena v kobce otců přešlých;  
@@ -54,7 +64,9 @@ Kdo mi tajné její žely poví?
 Kdo vyřekne a kdo ustanoví,  
 co noc tichá v bledém tají stínu?_
 
-  
+</section>
+
+<section>
 
 _Větřík vzdychne v harfy lůno duté,  
 a ta, ač již struny žádné nemá,  
@@ -62,3 +74,5 @@ zalká zvuky nezapomenuté!
 Vzplanou noci zraky žalonosné,  
 šírou zemi kryje slza němá!! —  
 Či ne slza? — snad jen kapky rosné!_
+
+</section>
