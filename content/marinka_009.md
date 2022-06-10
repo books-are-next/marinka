@@ -3,7 +3,7 @@ title: Dějství druhé
 contentType: prose
 ---
 
-  
+<section>
 
 Noc přešla a uplakané jitro vzešlo nad probuzenou Prahou. Já jsem ještě za tmy vstával, chystaje se k návštěvě, o jaké se mi, na rukou u stolku spícímu, po celou noc snilo. Srovnal jsem si vlasy, přičesal licousy kolem obličeje a načernil jsem vousiska nad i pod pyskama. Bylo osm hodin na Staroměstské radnici dne 10. srpna 1833, kdy jsem, přecházeje Staroměstské náměstí, k Františku se blížil.
 
@@ -31,46 +31,60 @@ Já nebyl v stavu ani slzy umořiti, a proto tím hůře svírala bolest prsa 
 
 Sladké, líbezné zvuky provázely následující zpěv:
 
-  
+</section>
+
+<section>
 
 _Tam na hoře holoubátko  
 smutně sobě štěhotá:  
 „Komu, komu to poupátko,  
 komu smutné zakvětá?“_
 
-  
+</section>
+
+<section>
 
 _Odpovídá keř růžový,  
 libá vůně jehoť hlas:  
 „Komu vzejde květ májový,  
 (Velmi smutně) nežli z hrobu, hrobu zas?“_
 
-  
+</section>
+
+<section>
 
 Hlas jí nestačil pro bolest srdce; neplakala však. Po malé přestávce zpěvu, vyplněné truchlými zvuky fortepiana, zpívala takto:
 
-  
+</section>
+
+<section>
 
 _„Sotva slunce že zapadne  
 modravé tam za hory,  
 též i kvítek můj uvadne  
 bledé luně navzdory.“_
 
-  
+</section>
+
+<section>
 
 _Zaplakalo holoubátko,  
 zavrkalo večerem;  
 klonilo hlavu poupátko,  
 sklonilo ji za šerem._
 
-  
+</section>
+
+<section>
 
 _A kdy pozdě pominula  
 jasna slunce krásná moc,  
 též i poupě obvinula  
 pustohustá, čirá noc._
 
-  
+</section>
+
+<section>
 
 Žalostivě končilo fortepiano, temněji a temněji, až posléz jako by usnul smutný jeho hlas. Já jsem se probudil z hloubí zapomenutí svého; polomrtvý spěchám odtud, mně nebylo lze zde vydržeti. „Hynku!“ zvolá její jemný hlas; obrátím se k ní, ona rozepjala ruce za mnou, v krásných očích ani slzy nebylo; sklesnu zpět k nohoum jejím, vřelé čelo kryje v jejím klínu, cítil jsem rámě její kolem šíje mé.
 
@@ -90,20 +104,28 @@ Právě když jsem okolo přicházel, vztyčila se rovně vzhůru a třesoucím
 
 „To je jedenáctka a čtyrycet plná, paní Ančičko! Ať nerodím, jestliže ne,“ volala jiná babice na konci lavice; „já přisadím groš!“ – „Já také!“ – „Já také!“ zvolal sbor bab. Z uličky zněly zvuky fortepiana a hlas Marinky zpíval:
 
-  
+</section>
+
+<section>
 
 _Komu vzejde květ májový,  
 nežli z hrobu, hrobu zas?_
 
-  
+</section>
+
+<section>
 
 Přes kluzké prkno vešel jsem v dům a v sednici. Ma­rin­ka-Mig­non-Marinka seděla jako ráno při fortepianu, zpívajíc píseň:
 
-  
+</section>
+
+<section>
 
 _Tam na hoře holoubátko._
 
-  
+</section>
+
+<section>
 
 Právě končila. – Já jsem sedl beze slova promluvení u Marinky a položil hlavu v její klín; lehkým pohlazením přejela bílá ruka její tvář mou a pak opět budila hlas odpovídajících jí strun, přecházejíc v píseň jinou.
 
@@ -129,17 +151,23 @@ Já jsem se stal vždy smutnějším. „Marinko!“ pravím, „Marinko! – s
 
 „Marinko! kde ty budeš?“ táži se. Ona sáhla v struny a mdlým, poloudušeným hlasem zpívala sloku z národní písně:
 
-  
+</section>
+
+<section>
 
 _Tam za horou, za lesíčkem  
 zpívají v sboru kněží;  
 tři kroky za kostelíčkem —_
 
-  
+</section>
+
+<section>
 
 Poslední řádku sloky té nemohla dozpívati; jen fortepiano proneslo nápěv písně té, ona dutým, hlubokým hlasem dokončila:
 
-  
+</section>
+
+<section>
 
 _v hrobě tvá milá leží —_
 
@@ -152,11 +180,15 @@ a sklesnouc v náruč mou, položila tvář svou na horoucí čelo mé; ona vě
 
 „S Bohem!“ odpoví ona a jaksi slavně stojí přede mnou v celé kráse své; já se shýbnu k ruce její, než ona sehne se na prsa má, a první i poslední políbení hořelo na rtech mých. Fortepiano, jako by samo od sebe počalo, hrálo píseň:
 
-  
+</section>
+
+<section>
 
 _Tam na hoře holoubátko._
 
-  
+</section>
+
+<section>
 
 V pablesku měsíce seděl při něm dlouhý vyzáblý muž, v červený veliký kabát starého kroje a takovéto až po kolena sahajecí spodky oblečený. Obuv jeho, krátké boty, byly nataženy na vysoké, spravované na mnohých sice místech, přitom však čisté bílé punčochy; – dlouhé pletené vlasy byly přes rameno na prsa přehozené. Veliké cípy bílého šátku visely na modrou, stříbrem vyšívanou, teď však již velmi sešlou vestu. Byl to otec Marinky; jeho dlouhé vyzáblé prsty čarodějné vábily zvuky ze strun fortepiana.
 
@@ -177,3 +209,5 @@ Teď novou rakev přinášeli hrobníci k šachtě; směšná postava, dlouhý 
 Sprostou žlutou rakev nepokropenou vpustili v šachtu, a jako by někdo šeptal v ucho mé, znělo mi hluboko v duši: „Ona tebe očekávala!“ Skočiv se zdi, spěchám nastávajícím šerem do procházek Wimmerovských a Žitnou branou v temnou Prahu.
 
 Za několik dní slyšel jsem o starém muži, který na novoměstském hřbitově tak smutně na housle hrává; a po měsíci roznesla se pověst po Praze, že na dolejších loďkách vytáhli mlynářští utopeného. Ležel před sedmým na lavičkách. Dlouhý vyzáblý muž v červený veliký kabát starého kroje a takovéto až po kolena sahajecí spodky oblečený. Obuv jeho, krátké boty, byly nataženy na vysoké, spravované na mnohých sice místech, přitom však čisté bílé punčochy; – dlouhé pletené vlasy byly přes rameno na prsa přehozené. Veliké cípy bílého šátku visely na modrou, stříbrem vyšívanou, teď však již velmi sešlou vestu. Před ním na zemi ležel třírohý klobouk, po pravé straně slaměná mošna a na ní rozmoklé housle. Nikdo se k němu nehlásil a zapomenutého bez rakve zakopali v šachtu.
+
+</section>
