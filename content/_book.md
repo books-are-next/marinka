@@ -13,6 +13,7 @@ meta:
   modified: '2021-03-02T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2497-9
 readingOrder:
   - promo.html
   - marinka_005.html
