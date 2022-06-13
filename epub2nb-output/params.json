@@ -9,7 +9,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-03-02T00:00:00.000Z",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2497-9"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_basne\nMLP_uroven2_kapitola",
@@ -322,6 +323,6 @@
       "user": "books-are-next",
       "repo": "marinka"
     },
-    "generatedAt": 1654948580840
+    "generatedAt": 1655155762699
   }
 }
