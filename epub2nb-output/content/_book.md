@@ -22,7 +22,7 @@ readingOrder:
   - marinka_008.html
   - marinka_009.html
   - marinka_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
