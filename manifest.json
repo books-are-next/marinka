@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "macha-marinka-fc8e69b",
-  "revision": "fc8e69b",
+  "identifier": "macha-marinka-2d5947a",
+  "revision": "2d5947a",
   "readingOrder": [
     "promo.html",
     "marinka_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:03:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188186652
+    "date": "Thu Jul 21 2022 14:36:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414180073
   },
   "documents": [
     {
@@ -161,7 +161,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 125,
-      "chars": 821,
+      "chars": 822,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -181,7 +181,7 @@
   "totals": {
     "all": {
       "words": 4460,
-      "chars": 26682,
+      "chars": 26683,
       "ideas": 198
     },
     "chapters": {
