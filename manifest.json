@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "macha-marinka-cb94b50",
-  "revision": "cb94b50",
+  "identifier": "macha-marinka-6133a16",
+  "revision": "6133a16",
   "readingOrder": [
     "promo.html",
     "marinka_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:58:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924311762
+    "date": "Fri Oct 07 2022 14:05:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151525171
   },
   "documents": [
     {
